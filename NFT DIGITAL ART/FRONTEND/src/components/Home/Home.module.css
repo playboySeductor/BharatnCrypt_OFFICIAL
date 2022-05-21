@@ -1,0 +1,50 @@
+.maincontainer {
+
+}
+/* .container {
+    position: fixed;
+    flex-direction: row;
+    align-items: flex-start;
+    z-index: 130;
+    width: 100%;
+    bottom: 0px;
+    padding: 12px;
+
+} */
+
+.title {
+    width: 40px;
+    margin-top: 10rem;
+    margin-right: 9rem;
+    margin-left: 6.2rem;
+}
+
+.title2 {
+    margin-top: 3rem;
+    margin-left: 12rem;
+    margin-bottom: 3rem;
+}
+
+@media (min-width: 700px) and (max-width: 850px) {
+    .title2 {
+        margin-left: 3rem;
+    }
+}
+
+@media (max-width: 699px) {
+    .title2 {
+        margin-left: 10px;
+        font-size: 8px;
+    }
+}
+
+@media (max-width: 640px) {
+    .title {
+        width:  450px;
+        font-size: 8px;
+        margin-left: 6rem;
+        margin-top: 3rem;
+    }
+}
+
+

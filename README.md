@@ -2,7 +2,7 @@
 ## NCRYPTO: ONE STOP SOLUTION FOR ALL YOUR CRYPTO INVESTMENTS
 Web application for making crypto trading easy for all.
 ## *1. VIDEO AND DEPLOYED LINK 💸 :*
-Functional Demo of our project = https://www.youtube.com/watch?v=YNM1b1bWTSs<br/>
+Functional Demo of our project = 
 Deployed Link of our WEBAPP = https://otpyrcn.netlify.app/
 
 ## *2. Workflow of NCRYPTO:*

@@ -17,7 +17,7 @@ import logo from './logo.jpeg';
 import styled from 'styled-components'
 import './news.css'
 import WalletCard from './WalletConnect';
-import 'D:\\GitHub5\\nCRYPTO\\src\\App.css'
+// import "../../src/App.css";
 
 const useStyles = makeStyles((theme) => ({
   title: {

@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { ethers } from 'ethers';
-import 'D:\\GitHub5\\nCRYPTO\\src\\App.css'
+// import 'D:\\GitHub5\\nCRYPTO\\src\\App.css'
 
 
 const WalletCard = () => {

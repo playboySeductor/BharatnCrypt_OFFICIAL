@@ -1,9 +1,10 @@
 import React,{ useState} from 'react'
 import './navbar.css'
 import { RiMenu3Line, RiCloseLine } from 'react-icons/ri';
-import logo from '../../assets/logo.png'
+import logo from '../../assets/logo.jpeg'
 import {  Link } from "react-router-dom";
 import profile from '../../pages/profile/Profile'
+import styled from 'styled-components'
 
 const Menu = () => (
   <>
@@ -30,7 +31,7 @@ const Menu = () => (
     <div className='navbar'>
       <div className="navbar-links">
         <div className="navbar-links_logo">
-          <img src={logo} alt="logo" />
+          <img src={logo} alt="logo" style={{height:"3em"}} />
           <Link to="/"> 
             <h1>NCrypto</h1>
           </Link>
@@ -101,3 +102,8 @@ const Menu = () => (
 }
 
 export default Navbar
+const Logo = styled.div`
+    font-size: 1rem;
+    font-weight: 700;
+    /* color: white; */
+`

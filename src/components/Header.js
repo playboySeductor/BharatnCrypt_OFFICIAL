@@ -98,9 +98,10 @@ function Header() {
             >
               <MenuItem value={"USD"}>USD</MenuItem>
               <MenuItem value={"INR"}>INR</MenuItem>
-            </Select>  <button class="favorite styled" type="button" style={{ width: 100, height: 40, marginLeft: 15 }}>
-              Sign-Up
-            </button>
+            </Select>
+            {/* <button class="favorite styled" type="button" style={{ width: 100, height: 40, marginLeft: 15 }}> */}
+            {/* Sign-Up */}
+            {/* </button> */}
             <button className="favorite styled edit2">
               <WalletCard />
             </button>

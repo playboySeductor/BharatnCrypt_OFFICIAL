@@ -52,3 +52,5 @@ nCrypto is not just any trading platform that helps you to see crypto currency p
   - Sainik khaddar<br/>
   - Anurag Chakrabarty<br/>
   - Uttaran Nayak<br/>
+  - Saptarshi Pani
+  - Arindam Sala

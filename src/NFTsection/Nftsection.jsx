@@ -1,6 +1,6 @@
 import React from 'react'
 import './nft.css'
-import NFT from '../../src/assets/nft2.jpg'
+import NFT from '../../src/assets/nft3.png'
 const Nftsection = () => {
     return (
         <>

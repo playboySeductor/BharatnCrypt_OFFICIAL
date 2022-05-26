@@ -17,7 +17,7 @@ const Nftsection = () => {
                     <img src={NFT} alt="" className='img1' />
 
                 </div>
-                <button className="btnn">MINT NFT</button>
+                <button className="btnn"> <a href="https://project-nft-s-frontend.vercel.app/">MINT NFT</a></button>
                 <div className="extra">
 
                 </div>

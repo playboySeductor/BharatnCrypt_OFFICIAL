@@ -48,7 +48,6 @@ nCrypto is not just any trading platform that helps you to see crypto currency p
  ## *6. Future Additions 🤞:*
  Looking forward to make a system that notifies the user when suitable time comes for him to INVEST
  ## *7. Contributors ㊗️:*
-  - Adwaita Raj Modak<br/>
   - Sainik khaddar<br/>
   - Anurag Chakrabarty<br/>
   - Uttaran Nayak<br/>

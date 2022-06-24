@@ -1,11 +1,11 @@
-# Technica_Hackathon_2022
-## NCRYPTO: ONE STOP SOLUTION FOR ALL YOUR CRYPTO INVESTMENTS
+
+## BHATRATNCRYPT: ONE STOP SOLUTION FOR ALL YOUR CRYPTO INVESTMENTS
 Web application for making crypto trading easy for all.
 ## *1. VIDEO AND DEPLOYED LINK 💸 :*
 Functional Demo of our project = 
 Deployed Link of our WEBAPP = https://otpyrcn.netlify.app/
 
-## *2. Workflow of NCRYPTO:*
+## *2. Workflow of BHARATNCRYPT:*
   - We created a webapp using jupyter notebook and Mern Stack .<br/>
   - We first created separeate line graph patterns for all the coins on different time scales. <br/>
   - We then showed the candlestick patterns of all the coins using chart.js. <br/>
@@ -15,7 +15,7 @@ Deployed Link of our WEBAPP = https://otpyrcn.netlify.app/
  
   
   
- ## *3. Working of NCRYPTO�:*
+ ## *3. Working of BHARATNCRYPT�:*
    - Presenting before you our unique proposition, nCrypto, a one stop solution for all your crypto trades. 
 nCrypto is not just any trading platform that helps you to see crypto currency prices. But it is one of the very first platforms, which 
 
